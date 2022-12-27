@@ -3,7 +3,7 @@ Ujian Akhir Semester Praktikum Dasar Pemrograman Lab 3
 
 Nama : Andreas Manatar Lumban Gaol  
 NIM  : 221401067
-Kom  : B
+Kom  : B 
 Lab  : Dasar Pemrograman 3  
 Asisten Lab : Andrew Benedictus Jamesie  
 Tahun Ajaran : Ganjil 2022/2023  
