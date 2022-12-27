@@ -22,18 +22,18 @@ Pada program ini, perulangan ke-51 hanya ditujukan untuk login dan menggunakan f
 
 ## Alur Program
 <li> Mulai. </li>
-- Waktu saat program dijalankan akan selalu ditampilkan di paling atas.
-- **Menu utama (HOME)** muncul.
-- Program meminta input _'REGISTER'_, _'LOGIN'_, _'CLOSE'_ dari user;
-- Jika user menginput _'REGISTER'_, akan muncul menu pendaftaran yang mengharuskan user membuat Nama Depan, Nama Belakang, No. HP, Username, dan Password serta konfirmasi ulang password. Kemudian user akan diarahkan ke menu **LOGIN**;
-- Jika user menginput _'LOGIN'_, user akan ditujukan ke menu **LOGIN**. Pada menu **LOGIN**, user diwajibkan menginput username/email/No. HP yang telah terdaftar. Jika tidak terdaftar, user akan dikembalikan ke HOME. Jika telah terdaftar, user disuruh menginput password sampai benar. Setelah username/email/No. HP dan password sesuai, akan masuk ke menu **SYSTEM**;
-- Jika user menginput _'CLOSE'_, maka akan muncul tulisan 'Terima Kasih' dan program akan tertutup.
-- Pada menu **SYSTEM**, akan muncul tulisan 'Selamat datang, [NAMA USER]. Kemudian program kembali meminta input _'MAIN'_, _'PROFIL'_, _'PASSWORD'_, _'LOGOUT'_ dari user;
-- Jika user menginput _'MAIN'_, maka akan diarahkan ke program utama. Setelah selesai akan kembali ke menu **SYSTEM**;
-- Jika user menginput _'PROFIL'_, maka akan diarahkan ke menu yang berguna untuk menampilkan informasi user. Setelah itu, user dapat menyunting isi profil ataupun data dari akun user tersebut;
-- Jika user menginput _'PASSWORD'_, user dapat mengubah password akun tersebut;
-- Jika user menginput _'LOGOUT'_, user akan kembali ke menu **HOME**.
-- Selesai.
+<li> Waktu saat program dijalankan akan selalu ditampilkan di paling atas</li>
+<li> **Menu utama (HOME)** muncul</li>
+<li> Program meminta input _'REGISTER'_, _'LOGIN'_, _'CLOSE'_ dari user</li>
+<li> Jika user menginput _'REGISTER'_, akan muncul menu pendaftaran yang mengharuskan user membuat Nama Depan, Nama Belakang, No. HP, Username, dan Password serta konfirmasi ulang password. Kemudian user akan diarahkan ke menu **LOGIN**</li>
+<li> Jika user menginput _'LOGIN'_, user akan ditujukan ke menu **LOGIN**. Pada menu **LOGIN**, user diwajibkan menginput username/email/No. HP yang telah terdaftar. Jika tidak terdaftar, user akan dikembalikan ke HOME. Jika telah terdaftar, user disuruh menginput password sampai benar. Setelah username/email/No. HP dan password sesuai, akan masuk ke menu **SYSTEM**</li>
+<li> Jika user menginput _'CLOSE'_, maka akan muncul tulisan 'Terima Kasih' dan program akan tertutup</li>
+<li> Pada menu **SYSTEM**, akan muncul tulisan 'Selamat datang, [NAMA USER]. Kemudian program kembali meminta input _'MAIN'_, _'PROFIL'_, _'PASSWORD'_, _'LOGOUT'_ dari user</li>
+<li> Jika user menginput _'MAIN'_, maka akan diarahkan ke program utama. Setelah selesai akan kembali ke menu **SYSTEM**</li>
+<li> Jika user menginput _'PROFIL'_, maka akan diarahkan ke menu yang berguna untuk menampilkan informasi user. Setelah itu, user dapat menyunting isi profil ataupun data dari akun user tersebut</li>
+<li> Jika user menginput _'PASSWORD'_, user dapat mengubah password akun tersebut</li>
+<li> Jika user menginput _'LOGOUT'_, user akan kembali ke menu **HOME**</li>
+<li> Selesai.
 
 ## Video
 [Video Program](https://www.youtube.com "Program Prototype Register, Login, dan Penyimpanan Data pada Website/Aplikasi")
