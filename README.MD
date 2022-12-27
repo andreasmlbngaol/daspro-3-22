@@ -1,4 +1,4 @@
-# Program Prototype Register, Login, dan Penyimpanan data pada Website/Aplikasi
+# Program Prototype Register, Login, dan Penyimpanan Data pada Website/Aplikasi
 Ujian Akhir Semester Praktikum Dasar Pemrograman Lab 3  
 
 Nama : Andreas Manatar Lumban Gaol  
@@ -14,9 +14,11 @@ Fakultas Ilmu Komputer dan Teknologi Informasi
 Universitas Sumatera Utara  
 
 ## Deskripsi Proyek
-&ensp;Proyek ini merupakan sebuah program prototype cara kerja sebuah webiste/aplikasi yang berfungsi untuk menyimulasikan sebuah website/aplikasi. Program prototype ini hanya berisi alur mulai dari proses pendaftaran, masuk, dan pengeditan data akun yang telah didaftarkan. Program ini dapat diisi dengan sub program tambahan pada bagian system utama untuk mengisi system. Secara singkat, program ini dapat dianalogikan sebagai website/aplikasi yang mengharuskan pengguna untuk login terlebih dahulu untuk menggunakan fitur yang ada di dalam website/aplikasi tersebut. Sebagai contoh saya akan mengisikan program ... pada system. Website/Aplikasi pada umumnya menggunakan klik kiri sebagai input. Di sini, saya menggunakan ketikan sebagai input dari user.
-&ensp;Program ini dibatasi hingga dapat menampung sebanyak 50 akun. Dimana kesemua 50 akun tersebut tidak boleh memiliki username,email, atau nomor hp yang sama. User dapat mengubah data pada akun maupun password akun setelah login di akun tersebut. 
-&ensp;Pada program ini, perulangan ke-51 hanya ditujukan untuk login dan menggunakan fungsi utama dari website/aplikasi tersebut.
+Proyek ini merupakan sebuah program prototype cara kerja sebuah webiste/aplikasi yang berfungsi untuk menyimulasikan sebuah website/aplikasi. Program prototype ini hanya berisi alur mulai dari proses pendaftaran, masuk, dan pengeditan data akun yang telah didaftarkan. Program ini dapat diisi dengan sub program tambahan pada bagian system utama untuk mengisi system. Secara singkat, program ini dapat dianalogikan sebagai website/aplikasi yang mengharuskan pengguna untuk login terlebih dahulu untuk menggunakan fitur yang ada di dalam website/aplikasi tersebut. Sebagai contoh saya akan mengisikan program mengecek tahun kabisat pada system. Website/Aplikasi pada umumnya menggunakan klik kiri sebagai input. Di sini, saya menggunakan ketikan sebagai input dari user.
+
+Program ini dibatasi hingga dapat menampung sebanyak 50 akun. Dimana kesemua 50 akun tersebut tidak boleh memiliki username,email, atau nomor hp yang sama. User dapat mengubah data pada akun maupun password akun setelah login di akun tersebut. 
+
+Pada program ini, perulangan ke-51 hanya ditujukan untuk login dan menggunakan fungsi utama dari website/aplikasi tersebut.
 
 ## Alur Program
 - Mulai.
@@ -34,4 +36,4 @@ Universitas Sumatera Utara
 - Selesai.
 
 ## Video
-[Video Program](https://www.youtube.com "Program Analisis ...")
+[Video Program](https://www.youtube.com "Program Prototype Register, Login, dan Penyimpanan Data pada Website/Aplikasi")
