@@ -21,7 +21,7 @@ Program ini dibatasi hingga dapat menampung sebanyak 50 akun. Dimana kesemua 50 
 Pada program ini, perulangan ke-51 hanya ditujukan untuk login dan menggunakan fungsi utama dari website/aplikasi tersebut.
 
 ## Alur Program
-- Mulai.
+<li> Mulai. </li>
 - Waktu saat program dijalankan akan selalu ditampilkan di paling atas.
 - **Menu utama (HOME)** muncul.
 - Program meminta input _'REGISTER'_, _'LOGIN'_, _'CLOSE'_ dari user;
